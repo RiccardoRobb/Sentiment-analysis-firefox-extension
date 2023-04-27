@@ -32,6 +32,8 @@ Will be used 2 different datasets, in order to compare different approach using 
    * **user**: the user that tweeted
    
    * **text**: the text of the tweet
+   
+   * 
 
 2. [Text Emotion Recognition | Kaggle](https://www.kaggle.com/datasets/shreejitcheela/text-emotion-recognition)
    
