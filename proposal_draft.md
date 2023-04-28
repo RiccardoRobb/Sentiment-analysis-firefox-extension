@@ -1,10 +1,6 @@
-# <center> Project proposal </center>
 
-### <center>1860609 - Riccardo Ruberto </center>
 
----
-
-## Problem
+### ## Problem
 
 Analyzing and categorizing the **sentiment** of tweets.
 
