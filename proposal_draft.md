@@ -2,14 +2,14 @@
 
 Analyzing and categorizing the **sentiment** of tweets.
 
-The scope of this project is to create a *chrome extension* that associate at each tweet a sentiment value converted in an emoji:
+**Main goal**: compare different approaches using different data sets to see which approach with which data sets succeeds in associating the right sentiment with each tweet.
+
+**Secondary goal**: create a *chrome extension* that associate at each tweet a sentiment value converted in an emoji:
 
 | Value | Emoji           |
 |:-----:|:---------------:|
 | 0     | :frowning_face: |
 | 1     | :grinning:      |
-
-Will be used 2 different datasets, in order to compare different approach using different dataset.
 
 ---
 
@@ -47,4 +47,8 @@ Will be used 2 different datasets, in order to compare different approach using 
 
 ---
 
+logistic regression 
 
+random forest classifier
+
+naivebayes classifier
