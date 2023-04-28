@@ -2,11 +2,14 @@
 
 ### <center>1860609 - Riccardo Ruberto </center>
 
+---
+
 ## Problem
 
 Analyzing and categorizing the **sentiment** of tweets.
 
-**Main goal**: compare different approaches using different data sets to see which approach with which data sets succeeds in associating the right sentiment with each tweet.
+**Main goal**: compare different approaches using different data sets to see which
+combination succeeds in associating the right sentiment with each tweet.
 
 **Secondary goal**: create a *chrome extension* that associate at each tweet a sentiment value converted in an emoji:
 
