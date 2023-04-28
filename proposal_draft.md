@@ -1,4 +1,8 @@
-# Problem
+# <center> Project proposal </center>
+
+### <center>1860609 - Riccardo Ruberto </center>
+
+## Problem
 
 Analyzing and categorizing the **sentiment** of tweets.
 
@@ -13,7 +17,7 @@ Analyzing and categorizing the **sentiment** of tweets.
 
 ---
 
-# Datasets
+## Datasets
 
 1. [Sentiment140 | Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download)
    
@@ -32,8 +36,6 @@ Analyzing and categorizing the **sentiment** of tweets.
    * **user**: the user that tweeted
    
    * **text**: the text of the tweet
-     
-     
 
 2. [Text Emotion Recognition | Kaggle](https://www.kaggle.com/datasets/shreejitcheela/text-emotion-recognition)
    
@@ -47,8 +49,22 @@ Analyzing and categorizing the **sentiment** of tweets.
 
 ---
 
-logistic regression 
+## Methods
 
-random forest classifier
+### Logistic regression
 
-naivebayes classifier
+Allows to predict a *binary outcome* using the sigmoid function which outputs a probability between 0 (*Negative*) and 1 (*Positive*)
+
+### Support Vector Machines
+
+Allows to plot labelled data as points in a multi-dimensional space, there will be present a *decision boundary* that divides the data points in *Positive* and *Negative*
+
+---
+
+## Evaluation framework
+
+* **Precision**
+
+* **Recall**
+
+* **Accuracy**
