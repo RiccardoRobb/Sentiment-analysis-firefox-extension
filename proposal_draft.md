@@ -1,6 +1,6 @@
 
 
-### ## Problem
+## Problem
 
 Analyzing and categorizing the **sentiment** of tweets.
 
