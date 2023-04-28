@@ -10,10 +10,10 @@ Analyzing and categorizing the **sentiment** of tweets.
 
 **Secondary goal**: create a *chrome extension* that associate at each tweet a sentiment value converted in an emoji:
 
-| Value | Emoji           |
-|:-----:|:---------------:|
-| 0     | :frowning_face: |
-| 1     | :grinning:      |
+| Value | Emoji               |
+|:-----:|:-------------------:|
+| 0     | ![sad](sad.png)     |
+| 1     | ![happy](happy.png) |
 
 ---
 
