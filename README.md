@@ -1,4 +1,4 @@
-
+EADM
 
 ## Problem
 
@@ -58,6 +58,9 @@ Allows to predict a *binary outcome* using the sigmoid function which outputs a 
 
 Allows to plot labelled data as points in a multi-dimensional space, there will be present a *decision boundary* that divides the data points in *Positive* and *Negative*
 
+### +
+
+### +
 ---
 
 ## Evaluation framework
