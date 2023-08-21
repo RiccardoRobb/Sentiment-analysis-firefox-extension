@@ -58,9 +58,14 @@ Allows to predict a *binary outcome* using the sigmoid function which outputs a 
 
 Allows to plot labelled data as points in a multi-dimensional space, there will be present a *decision boundary* that divides the data points in *Positive* and *Negative*
 
-### +
+### Decision Tree
 
-### +
+Use the dataset features to create *Positive* / *Negative* questions and continually split the dataset until you isolate all data points belonging to each class
+
+### Random Forest
+
+A meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses *averaging* to improve the predictive accuracy and control over-fitting
+ 
 ---
 
 ## Evaluation framework
