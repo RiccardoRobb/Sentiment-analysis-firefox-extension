@@ -5,12 +5,14 @@ Analyzing and categorizing the **sentiment** of tweets.
 **Main goal**: compare different approaches using different data sets to see which
 combination succeeds in associating the right sentiment with each tweet.
 
-**Secondary goal**: create a *chrome extension* that associate at each tweet a sentiment value converted in an emoji:
+**Secondary goal**: create a *firefox extension* that associate at each tweet a sentiment value converted in an emoji:
 
 | Value | Emoji           |
 |:-----:|:---------------:|
 | 0     | :frowning_face: |
 | 1     | :grinning:      |
+
+[Firefox extension](./Extension/)
 
 ---
 
