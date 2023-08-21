@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "Tweet sentiment analizer",
+  "version": "1.0",
+  "description": "Tweet sentiment analizer.",
+  "icons": {
+    "48": "icons/analizer-48.png",
+    "96": "icons/analizer-96.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.twitter.com/*"
+      ],
+      "js": [
+        "analizer.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "icons/analizer-48.png",
+    "icons/loading.gif",
+    "icons/happy.png",
+    "icons/sad.png",
+    "icons/happy_sueg.png",
+    "icons/sad_sueg.png"
+  ],
+  "permissions": [
+    "webNavigation",
+    "webRequest",
+    "http://127.0.0.1/*",
+    "http://localhost/*",
+    "activeTab"
+  ]
+}

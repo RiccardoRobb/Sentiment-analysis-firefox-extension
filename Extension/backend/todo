@@ -1,0 +1,3 @@
+From API:
+[ ] - format "{'record': {'day': 3, 'hour': 15, 'text': 'thomas sowell happy cpi day', 'target': 0}}" to dataframe, and save to parquet 
+~Remember to check for fine-tuning and if it is needed to turn back to initial daset format~
