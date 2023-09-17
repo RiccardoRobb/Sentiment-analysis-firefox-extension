@@ -65,3 +65,5 @@ A meta estimator that fits a number of decision tree classifiers on various sub-
 * **Recall**
 
 * **Accuracy**
+
+* **F1-Score**
