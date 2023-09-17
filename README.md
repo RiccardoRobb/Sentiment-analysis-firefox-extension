@@ -36,16 +36,6 @@ combination succeeds in associating the right sentiment with each tweet.
    
    * **text**: the text of the tweet
 
-2. [Text Emotion Recognition | Kaggle](https://www.kaggle.com/datasets/shreejitcheela/text-emotion-recognition)
-   
-   **[37.84MB]** ~ <u>282,782 tweets</u>
-   
-   Every tweet has been annotated (*0 = negative, 1 = positive*), this dataset contains 2 field/column: 
-   
-   * **text**: the text of the tweet
-   
-   * **emotion**: polarity of the tweet (*0 = negative, 1 = positive*)
-
 ---
 
 ## Methods
